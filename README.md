@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bachuki Shashikadze
-- 👀 I’m interested in Mass spectrometry based proteomics
+- 👀 I’m interested in Mass spectrometry-based proteomics
 - 🌱 I’m currently learning statistical learning methods for omics data analysis
 - 📫 How to reach me bachuki.shashikadze@gmail.com
 
